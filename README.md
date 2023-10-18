@@ -17,7 +17,7 @@ _This is a backend application built with Node.js, Express, Mongoose, and MongoD
 git clone https://github.com/namanks2201/taskManager-backend.git
 ```
 
-2. Run the following coommand to navigate to the project root directory :
+2. Run the following command to navigate to the project root directory :
 
 ```
 cd taskManager-backend
